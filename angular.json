@@ -122,5 +122,8 @@
             }
         }
     },
-    "defaultProject": "ClickHousePlay"
+    "defaultProject": "ClickHousePlay",
+    "cli": {
+      "analytics": false
+    }
 }
